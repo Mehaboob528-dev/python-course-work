@@ -1,0 +1,5 @@
+print("NAME: Shaik Mehaboob Basha")
+print("Course: Python Full Stack with Gen AI")
+print("Student ID: CGH3060")
+print("Passed Year: 2025")
+print("Branch: MCA")
